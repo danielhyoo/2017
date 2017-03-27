@@ -1,0 +1,37 @@
+- Week 1
+  - What is regression?
+  - Mechanics of OLS
+  - Properties of least squares
+  - Bias-variance tradeoff
+  - Inference
+  - Gauss-Markov Theorem  
+- Week 2
+  - Omitted Variables
+  - Matrix algebra
+  - Multivariate Regression
+  - Inference for multivariate regression
+- Week 3
+  - Functional Form
+  - Limited Dependent Variables
+  - Dummy variables
+  - Interactions
+  - Inference for multiple coefficients
+- Week 4
+  - Outliers
+  - Heteroskedasticity
+  - Functional Form
+- Week 5
+  - Potential Outcomes
+  - Experiments
+- Week 6
+  - Matching / Selection on Observables
+- Week 7
+  - Instrumental Variables
+- Week 8
+  - Regression Discontinuity
+- Week 9
+  - Panel data
+- Week 10
+  - Prediction
+  - Lasso
+  - Cross Validation
