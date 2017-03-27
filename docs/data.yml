@@ -1,5 +1,6 @@
 classes:
   - week: 1
+    topics: "OLS Review"
     meetings:
     - start: 2017-03-27 17:00
       end: 2017-03-27 18:20
@@ -12,7 +13,9 @@ classes:
       end: 2017-03-29 18:20
       type: class
       date: '2017-03-29'
-      reading_before: []
+      reading_before:
+      - "\"Bivariate OLS: Foundation of Statistical Analysis\", *Real Stats*"
+      - ""
       reading_after: []
       in_class: []
     - start: 2017-03-31 17:00
@@ -92,6 +95,7 @@ classes:
       reading_after: []
       in_class: []
   - week: 5
+    topics: ""
     meetings:
     - start: 2017-04-24 17:00
       end: 2017-04-24 18:20

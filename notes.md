@@ -1,4 +1,5 @@
 - Week 1
+  - Ch 1, 2, 3, 4
   - What is regression?
   - Mechanics of OLS
   - Properties of least squares
@@ -6,31 +7,33 @@
   - Inference
   - Gauss-Markov Theorem  
 - Week 2
-  - Omitted Variables
+  - Omitted Variables (Ch 14)
   - Matrix algebra
-  - Multivariate Regression
+  - Multivariate Regression (Ch 5)
   - Inference for multivariate regression
 - Week 3
-  - Functional Form
-  - Limited Dependent Variables
-  - Dummy variables
-  - Interactions
+  - Dummy variables - (Ch 6 )
+  - Interactions - 
   - Inference for multiple coefficients
 - Week 4
-  - Outliers
+  - Outliers / influential points
   - Heteroskedasticity
   - Functional Form
+  - Bootstrap
+  - NHST - research replication
+  - substantive significance
 - Week 5
+  - Mastering Metrics (MM Ch 1)
   - Potential Outcomes
   - Experiments
 - Week 6
-  - Matching / Selection on Observables
+  - Matching / Selection on Observables (MM Ch 2, 6.1)
 - Week 7
-  - Instrumental Variables
+  - Instrumental Variables (MM Ch 3, 6.2)
 - Week 8
-  - Regression Discontinuity
+  - Regression Discontinuity (MM Ch 4, 6.3)
 - Week 9
-  - Panel data
+  - Panel data (MM Ch 5)
 - Week 10
   - Prediction
   - Lasso

@@ -43,13 +43,13 @@
 <td>Class </td>
 <td>M,W </td>
 <td>5:00&ndash;6:20 pm </td>
-<td><a href="https://www.washington.edu/maps/?cdh">CDH 717</td>
+<td><a href="https://www.washington.edu/maps/?sav">SAV 117</td>
 </tr>
 <tr>
 <td>Lab </td>
 <td>F</td>
 <td>1:30&ndash;3:20 pm </td>
-<td><a href="https://www.washington.edu/maps/?cdh">CDH 717</a></td>
+<td><a href="https://www.washington.edu/maps/?cdh">SAV 117</a></td>
 </tr>
 </table>
 
@@ -86,6 +86,8 @@ You should have received an invitation to join this team, if not contact us to r
 
 # Evaluation
 
+- Homework Assignments:
+- Participation:
 
 
 # Texts
@@ -102,6 +104,7 @@ Additional readings are on the [schedule](schedule.html).
 For computation, this course will rely upon [R](https://cran.r-project.org/): a language for statistical computing.
 
 I expect that students will already be familiar with **R**, so class time will not be spent introducing it.
-This is so that 
+In particular, I expect students to be familiar with the material in [R for Data Science](http://r4ds.had.co.nz/). 
+This covers the [tidyverse](http://tidyverse.org/) packages used in data wrangling: **ggplot**, **dplyr**, **tidyr**, **purrr**, **readr**, **haven**, **stringr**, and **forcats**.
 
 Though not necessary, you are encouraged to use [RStudio](https://www.rstudio.com/products/rstudio/#Desktop) Desktop integrated development environment (IDE) for R.
