@@ -1,0 +1,231 @@
+classes:
+  - week: 1
+    meetings:
+    - start: 2017-03-27 17:00
+      end: 2017-03-27 18:20
+      type: class
+      date: '2017-03-27'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-03-29 17:00
+      end: 2017-03-29 18:20
+      type: class
+      date: '2017-03-29'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-03-31 17:00
+      end: 2017-03-31 18:20
+      type: lab
+      date: '2017-03-31'
+      reading_before: []
+      reading_after: []
+      in_class: []
+  - week: 2
+    meetings:
+    - start: 2017-04-03 17:00
+      end: 2017-04-03 18:20
+      type: class
+      date: '2017-04-03'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-04-05 17:00
+      end: 2017-04-05 18:20
+      type: class
+      date: '2017-04-05'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-04-07 17:00
+      end: 2017-04-07 18:20
+      type: lab
+      date: '2017-04-07'
+      reading_before: []
+      reading_after: []
+      in_class: []
+  - week: 3
+    meetings:
+    - start: 2017-04-10 17:00
+      end: 2017-04-10 18:20
+      type: class
+      date: '2017-04-10'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-04-12 17:00
+      end: 2017-04-12 18:20
+      type: class
+      date: '2017-04-12'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-04-14 17:00
+      end: 2017-04-14 18:20
+      type: class
+      date: '2017-04-14'
+      reading_before: []
+      reading_after: []
+      in_class: []
+  - week: 4
+    meetings:
+    - start: 2017-04-17 17:00
+      end: 2017-04-17 18:20
+      type: class
+      date: '2017-04-17'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-04-19 17:00
+      end: 2017-04-19 18:20
+      type: class
+      date: '2017-04-19'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-04-21 17:00
+      end: 2017-04-21 18:20
+      type: lab
+      date: '2017-04-21'
+      reading_before: []
+      reading_after: []
+      in_class: []
+  - week: 5
+    meetings:
+    - start: 2017-04-24 17:00
+      end: 2017-04-24 18:20
+      type: class
+      date: '2017-04-24'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-04-26 17:00
+      end: 2017-04-26 18:20
+      type: class
+      date: '2017-04-26'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-04-28 17:00
+      end: 2017-04-28 18:20
+      type: class
+      date: '2017-04-28'
+      reading_before: []
+      reading_after: []
+      in_class: []
+  - week: 6
+    meetings:
+    - start: 2017-05-01 17:00
+      end: 2017-05-01 18:20
+      type: class
+      date: '2017-05-01'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-05-03 17:00
+      end: 2017-05-03 18:20
+      type: class
+      date: '2017-05-03'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-05-05 17:00
+      end: 2017-05-05 18:20
+      type: class
+      date: '2017-05-05'
+      reading_before: []
+      reading_after: []
+      in_class: []
+  - week: 7
+    meetings:
+    - start: 2017-05-08 17:00
+      end: 2017-05-08 18:20
+      type: class
+      date: '2017-05-08'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-05-10 17:00
+      end: 2017-05-10 18:20
+      type: class
+      date: '2017-05-10'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-05-12 17:00
+      end: 2017-05-12 18:20
+      type: class
+      date: '2017-05-12'
+      reading_before: []
+      reading_after: []
+      in_class: []
+  - week: 8
+    meetings:
+    - start: 2017-05-15 17:00
+      end: 2017-05-15 18:20
+      type: class
+      date: '2017-05-15'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-05-17 17:00
+      end: 2017-05-17 18:20
+      type: class
+      date: '2017-05-17'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-05-19 17:00
+      end: 2017-05-19 18:20
+      type: class
+      date: '2017-05-19'
+      reading_before: []
+      reading_after: []
+      in_class: []
+  - week: 9
+    meetings:
+    - start: 2017-05-22 17:00
+      end: 2017-05-22 18:20
+      type: class
+      date: '2017-05-22'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-05-24 17:00
+      end: 2017-05-24 18:20
+      type: class
+      date: '2017-05-24'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-05-26 17:00
+      end: 2017-05-26 18:20
+      type: class
+      date: '2017-05-26'
+      reading_before: []
+      reading_after: []
+      in_class: []
+  - week: 10
+    meetings:
+    - start: 2017-05-29 17:00
+      end: 2017-05-29 18:20
+      type: class
+      date: '2017-05-29'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-05-31 17:00
+      end: 2017-05-31 18:20
+      type: class
+      date: '2017-05-31'
+      reading_before: []
+      reading_after: []
+      in_class: []
+    - start: 2017-06-02 17:00
+      end: 2017-06-02 18:20
+      type: class
+      date: '2017-06-02'
+      reading_before: []
+      reading_after: []
+      in_class: []
