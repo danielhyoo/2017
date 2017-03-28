@@ -112,43 +112,43 @@ Though not necessary, you are encouraged to use [RStudio](https://www.rstudio.co
 # Rough Schedule of Topics
 
 - Week 1
-  - RS (Ch 1, 2, 3, 4)
-  - What is regression?
-  - Mechanics of OLS
-  - Properties of least squares
-  - Bias-variance tradeoff
-  - Inference
-  - Git
+    - RS (Ch 1, 2, 3, 4)
+    - What is regression?
+    - Mechanics of OLS
+    - Properties of least squares
+    - Bias-variance tradeoff
+    - Inference
+    - Git
 - Week 2
-  - Gauss-Markov Theorem
-  - Omitted Variables (RS: Ch 14)
-  - Matrix algebra
-  - Multivariate Regression (RS: Ch 5)
-  - Inference for multivariate regression
+    - Gauss-Markov Theorem
+    - Omitted Variables (RS: Ch 14)
+    - Matrix algebra
+    - Multivariate Regression (RS: Ch 5)
+    - Inference for multivariate regression
 - Week 3
-  - Dummy variables - (RS: Ch 6)
-  - Interactions - 
-  - Inference for multiple coefficients
+    - Dummy variables - (RS: Ch 6)
+    - Interactions - 
+    - Inference for multiple coefficients
 - Week 4
-  - Outliers / influential points
-  - Heteroskedasticity
-  - Functional Form
-  - Bootstrap
-  - NHST - research replication
-  - substantive significance
+    - Outliers / influential points
+    - Heteroskedasticity
+    - Functional Form
+    - Bootstrap
+    - NHST - research replication
+    - substantive significance
 - Week 5
-  - Mastering Metrics (MM Ch 1)
-  - Potential Outcomes
-  - Experiments
+    - Mastering Metrics (MM Ch 1)
+    - Potential Outcomes
+    - Experiments
 - Week 6
-  - Matching / Selection on Observables (MM Ch 2, 6.1)
+    - Matching / Selection on Observables (MM Ch 2, 6.1)
 - Week 7
-  - Instrumental Variables (MM Ch 3, 6.2)
+    - Instrumental Variables (MM Ch 3, 6.2)
 - Week 8
-  - Regression Discontinuity (MM Ch 4, 6.3)
+    - Regression Discontinuity (MM Ch 4, 6.3)
 - Week 9
-  - Panel data (MM Ch 5)
+    - Panel data (MM Ch 5)
 - Week 10
-  - Prediction
-  - Lasso
-  - Cross Validation
+    - Prediction
+    - Lasso
+    - Cross Validation
