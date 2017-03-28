@@ -48,6 +48,10 @@ render_topics <- function(x) {
   }
 }
 
+render_notes <- function(x) {
+  tags$p(HTML(commonmark::markdown_html(x[["notes"]])))
+}
+
 render_class <- function(x) {
   start <- ymd_hm(x[["start"]])
   end <- ymd_hm(x[["end"]])
@@ -61,6 +65,7 @@ render_class <- function(x) {
     id = str_c(x[["type"]], "-", format(start, "%Y-%m-%d")),
     .header,
     render_topics(x),
+    render_notes(x),
     render_readings_before(x),
     render_readings_after(x)
   )
