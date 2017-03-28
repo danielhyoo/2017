@@ -15,15 +15,29 @@ classes:
       date: '2017-03-29'
       reading_before:
       - "\"Bivariate OLS: Foundation of Statistical Analysis\", *Real Stats*"
-      - ""
       reading_after: []
       in_class: []
-    - start: 2017-03-31 17:00
-      end: 2017-03-31 18:20
+    - start: "2017-03-31 17:00"
+      end: "2017-03-31 18:20"
       type: lab
       date: '2017-03-31'
-      reading_before: []
-      reading_after: []
+      reading_before:
+      - "Agrist and Pischke. 2001. \"The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con out of Econometrics\". *Journal of Economic Perspectives* [doi:10.1257/jep.24.2.3](https://dx.doi.org/10.1257/jep.24.2)."
+      - >-
+        [Symposium: Big Data, Causal Inference, and Formal Theory: Contradictory Trends in Political Science?](https://doi.org/10.1017/S1049096514001759PS).
+        This is effectively a commentary on where methodology goes from here. Scan the various articles to get the gist of the different viewpoints.
+      - "Dunning. 2010. \"[Design-Based Inference: Beyond the Pitfalls of Regression Analysis?](http://www.thaddunning.com/wp-content/uploads/2010/05/Dunning_Rethinking-Social-Inquiry.pdf)\" in *Rethinking Social Inquiry: Diverse Tools, Shared Standards*"
+      - "Freedman. 1991. \"[Statistical Models and Shoe Leather]((https://dx.doi.org/10.2307/27093)\". *Sociological Methodology.*"
+      - "Berk. 2010. \"[What You Can and Can’t Properly Do with Regression](https://dx.doi.org/10.1007/s10940-010-9116-4)"\". *Journal of Quantitative Criminology.*"
+      - "Altman and Krzywinski. 2015. \"[Points of Significance: Association, Correlation, and Causation](https://dx.doi.org/10.1038/nmeth.3587)\". *Nature Methods*"
+      - "Altman and Krzywinski. 2015. \"[Points of Significance: Simple linear regression](https://dx.doi.org/10.1038/nmeth.3627).\" *Nature Methods*."
+      reading_after:
+      - "King. 1991. \"[On Political Methodology](http://gking.harvard.edu/files/polmeth.pdf)\" *Political Analysis*. A dated history of statistics in political science."
+      - >-
+        Sigelman. 2006. "[The Coevolution of American Political Science and the American Political Science Review](https://doi.org/10.1017/S0003055406062319)". *APSR*
+        Becoming dated, but it touches on changes in methodology throughout the history of political science. This, along with King (1991) is
+        to give you a big picture overview of the history of methodology in the discipline as some of the other papers
+        provide a recent view of developments.
       in_class: []
   - week: 2
     meetings:
