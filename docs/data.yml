@@ -32,7 +32,7 @@ classes:
             [Symposium: Big Data, Causal Inference, and Formal Theory: Contradictory Trends in Political Science?](https://doi.org/10.1017/S1049096514001759).
             This is effectively a commentary on where methodology goes from here. Scan the various articles to get the gist of the different viewpoints.
         - >
-            Agrist and Pischke. 2001. "[The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con out of Econometrics](https://dx.doi.org/10.1257/jep.24.2.3)". *Journal of Economic Perspectives*.
+            Agrist and Pischke. 2010. "[The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con out of Econometrics](https://dx.doi.org/10.1257/jep.24.2.3)". *Journal of Economic Perspectives*.
         - "Dunning. 2010. \"[Design-Based Inference: Beyond the Pitfalls of Regression Analysis?](http://www.thaddunning.com/wp-content/uploads/2010/05/Dunning_Rethinking-Social-Inquiry.pdf)\" in *Rethinking Social Inquiry: Diverse Tools, Shared Standards*"
         - "Freedman. 1991. \"[Statistical Models and Shoe Leather](https://dx.doi.org/10.2307/270939)\". *Sociological Methodology.*"
         - "Berk. 2010. \"[What You Can and Can’t Properly Do with Regression](https://dx.doi.org/10.1007/s10940-010-9116-4)\". *Journal of Quantitative Criminology.*"
@@ -48,8 +48,23 @@ classes:
       end: "2017-03-31 18:20"
       type: lab
       date: '2017-03-31'
-      reading_before: []
-      reading_after: []
+      reading_before:
+        - >
+            Software Carpentry. [Automated Version Control](http://swcarpentry.github.io/git-novice/01-basics/) and
+            [Using Git from RStudio](http://swcarpentry.github.io/git-novice/14-supplemental-rstudio).
+
+      reading_after:
+        - >
+            Bryan. 2017. [Happy Git and GitHub for the useR](http://happygitwithr.com/)
+        - >
+            Software Carpentry. [Version Control with Git](http://swcarpentry.github.io/git-novice/). This is a good intro, but uses
+            the command line `git` program rather than the `git` interface built into RStudio.
+        - >
+            Jones. 2013. "[Git/GitHub, Transparency, and Legitimacy in Quantitative Research](https://thepoliticalmethodologist.com/2013/11/18/gitgithub-transparency-and-legitimacy-in-quantitative-research/)." *Political Methodologist*
+        - >
+            Ram. 2013. "[Git can facilitate greater reproducibility and increased transparency in science](https://dx.doi.org/10.1186/1751-0473-8-7)
+        - >
+            Ram. [git/github guide: a minimal tutorial](http://kbroman.org/github_tutorial/)
   - week: 2
     meetings:
     - start: "2017-04-03 17:00"
