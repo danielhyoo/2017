@@ -71,14 +71,20 @@ classes:
       end: "2017-04-03 18:20"
       type: class
       date: '2017-04-03'
-      reading_before: []
+      reading_before:
+        - >
+            *Real Stats,* Ch 4, "Hypothesis Testing and Interval Estimation: Answering Research Questions"
       reading_after: []
       in_class: []
     - start: "2017-04-05 17:00"
       end: "2017-04-05 18:20"
       type: class
       date: '2017-04-05'
-      reading_before: []
+      reading_before:
+        - >
+            *Real Stats,* "Ch 5: Multivariate OLS: Where the Action Is"
+        - >
+            *Real Stats,* Ch 14, "Advanced OLS"
       reading_after: []
       in_class: []
     - start: "2017-04-07 17:00"
@@ -94,14 +100,18 @@ classes:
       end: "2017-04-10 18:20"
       type: class
       date: '2017-04-10'
-      reading_before: []
+      reading_before:
+        - >
+            *Real Stats,* Ch 6, "Dummy Variables: Smarter Than You Think"
       reading_after: []
       in_class: []
     - start: "2017-04-12 17:00"
       end: "2017-04-12 18:20"
       type: class
       date: '2017-04-12'
-      reading_before: []
+      reading_before:
+        - >
+            *Real Stats,* Ch 7, "Transforming Variables, Comparing Variables"
       reading_after: []
       in_class: []
     - start: "2017-04-14 17:00"
@@ -124,7 +134,7 @@ classes:
       end: "2017-04-19 18:20"
       type: class
       date: '2017-04-19'
-      reading_before: []
+      reading_before:
       reading_after: []
       in_class: []
     - start: "2017-04-21 17:00"
@@ -135,20 +145,28 @@ classes:
       reading_after: []
       in_class: []
   - week: 5
-    topics: ""
+    topics: "Causality, Experiments, Potential Outcomes"
     meetings:
     - start: "2017-04-24 17:00"
       end: "2017-04-24 18:20"
       type: class
       date: '2017-04-24'
-      reading_before: []
+      reading_before:
+      - >
+          *MM*, Ch 1, "Randomized Trials"
+      - >
+          Keele. 2015. "[The Statistics of Causal Inference: A View from Political Methodology](doi:10.1093/pan/mpv007)," *Political Analysis*.
+      - >
+          Gelman and Imbens. "[Why ask Why? Forward Causal Inference and Reverse Causal Questions](http://www.nber.org/papers/w19614)," *NBER*
       reading_after: []
       in_class: []
     - start: "2017-04-26 17:00"
       end: "2017-04-26 18:20"
       type: class
       date: '2017-04-26'
-      reading_before: []
+      reading_before:
+      - >
+          *MM*, Ch 1, "Randomized Trials"
       reading_after: []
       in_class: []
     - start: "2017-04-28 17:00"
@@ -159,13 +177,24 @@ classes:
       reading_after: []
       in_class: []
   - week: 6
+    topics: "Selection on Observables: Matching and Observables"
     meetings:
     - start: "2017-05-01 17:00"
       end: "2017-05-01 18:20"
       type: class
       date: '2017-05-01'
-      reading_before: []
-      reading_after: []
+      reading_before:
+      - "*MM*, Ch 2, \"Regression\""
+      - "*MM*, Ch 6.1, \"Schooling, Experience, and Earnings\""
+      - "*MM*, Ch 6.2, \"Twins Double the Fun\""
+      - EGAP, "[10 Things to Know About Covariate Adjustment](http://egap.org/methods-guides/10-things-know-about-covariate-adjustment)"
+      reading_after:
+      - >
+          King, Lucas, and Nielsen. (2016) "[The Balance-Sample Size Frontier in Matching Methods for Causal Inference](https://dx.doi.org/10.1111/ajps.12272)." *American Journal of Political Science.*
+      - >
+          Imbens. (2015) "[Matching Methods in Practice](https://dx.doi.org/10.3386/w19959)." *Journal of Human Resources*.
+      - >
+          Sekhon. (2009) "Opiates for the Matches: Matching Methods for Causal Inference"
       in_class: []
     - start: "2017-05-03 17:00"
       end: "2017-05-03 18:20"
@@ -182,12 +211,17 @@ classes:
       reading_after: []
       in_class: []
   - week: 7
+    topics: "Instrumental Variables"
     meetings:
     - start: "2017-05-08 17:00"
       end: "2017-05-08 18:20"
       type: class
       date: '2017-05-08'
-      reading_before: []
+      reading_before:
+      - "*MM*, Ch 3, \"Instrumental Variables\""
+      - "*MM*, Ch 6.3, \"Econometricians are known by their ... Instruments\""
+      - Sovey and Green. (2011) "[Instrumental Variables Estimation in Political Science: A Readers’ Guide](https://dx.doi.org/10.1111/j.1540-5907.2010.00477.x)," *AJPS*.
+      - EGAP. "[10 Things to Know About the Local Average Treatment Effect](http://egap.org/methods-guides/10-things-you-need-know-about-local-average-treatment-effect)"
       reading_after: []
       in_class: []
     - start: "2017-05-10 17:00"
@@ -205,13 +239,20 @@ classes:
       reading_after: []
       in_class: []
   - week: 8
+    topics: "Regression Discontinuity"
     meetings:
     - start: "2017-05-15 17:00"
       end: "2017-05-15 18:20"
       type: class
       date: '2017-05-15'
-      reading_before: []
-      reading_after: []
+      reading_before:
+      - "*MM*, Ch 4, \"Regression Discontinuity Designs\""
+      - "*MM*, Ch 6.4, \"Rustling Sheepskin in the Lonestar State\""
+      reading_after:
+      - >
+          Skovron and Rocio. 2015. [A Practical Guide to Regression Discontinuity Designs in Political Science](http://sites.lsa.umich.edu/webbkeane/wp-content/uploads/sites/233/2015/10/SkovronTitiunik-v5.pdf)
+      - >
+          Lee and Lemieux. 2010. "[Regression Discontinuity Designs in Economics](https://dx.doi.org/10.1257/jel.48.2.281)." *Journal of Economic Literature*
       in_class: []
     - start: "2017-05-17 17:00"
       end: "2017-05-17 18:20"
@@ -228,12 +269,16 @@ classes:
       reading_after: []
       in_class: []
   - week: 9
+    topics: "Panel Data, Difference-in-Differences"
     meetings:
     - start: "2017-05-22 17:00"
       end: "2017-05-22 18:20"
       type: class
       date: '2017-05-22'
-      reading_before: []
+      reading_before:
+      - "*MM*, Ch 5, \"Difference-in-Differences\""
+      - >
+          Bertrand, Duflo, Mullainathan. 2004. "[How Much Should We Trust Differences-In-Differences Estimates?](https://dx.doi.org/10.1162/003355304772839588)" *QJE*
       reading_after: []
       in_class: []
     - start: "2017-05-24 17:00"
@@ -251,12 +296,17 @@ classes:
       reading_after: []
       in_class: []
   - week: 10
+    topics: "Prediction, lasso, cross validation"
     meetings:
     - start: "2017-05-29 17:00"
       end: "2017-05-29 18:20"
       type: class
       date: '2017-05-29'
-      reading_before: []
+      reading_before:
+      - Fariss and Jones. 2016. "[Enhancing Validity in Observational Settings When Replication Is Not Possible](http://dx.doi.org/10.2139/ssrn.2543525)"
+      - Galit Schmueli. 2010. "[To Explain or to Predict?](https://dx.doi.org/10.1214/10-STS330)" *Statistical Science*
+      - Kleinberg, Ludwig, Mullainathan, Obermeyer. (2015) "[Prediction Policy Problems](DOI: 10.1257/aer.p20151023)." *American Economic Review*
+      - Ward, Greenhill, and Bakke. "Perils of Policy by p-value: Predicting Civil Conflicts."
       reading_after: []
       in_class: []
     - start: "2017-05-31 17:00"
