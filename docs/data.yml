@@ -13,14 +13,6 @@ classes:
       end: "2017-03-29 18:20"
       type: class
       date: '2017-03-29'
-      reading_before:
-      - "\"Bivariate OLS: Foundation of Statistical Analysis\", *Real Stats*"
-      reading_after: []
-      in_class: []
-    - start: "2017-03-31 17:00"
-      end: "2017-03-31 18:20"
-      type: lab
-      date: '2017-03-31'
       notes: >
         The *Real Stats* readings should be mostly review. Use them and the
         two *Nature* pieces to refresh yourself on regression.
@@ -52,6 +44,12 @@ classes:
             to give you a big picture overview of the history of methodology in the discipline as some of the other papers
             provide a recent view of developments.
       in_class: []
+    - start: "2017-03-31 17:00"
+      end: "2017-03-31 18:20"
+      type: lab
+      date: '2017-03-31'
+      reading_before: []
+      reading_after: []
   - week: 2
     meetings:
     - start: "2017-04-03 17:00"
