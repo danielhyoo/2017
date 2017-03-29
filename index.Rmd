@@ -109,6 +109,10 @@ This covers the [tidyverse](http://tidyverse.org/) packages used in data wrangli
 
 Though not necessary, you are encouraged to use [RStudio](https://www.rstudio.com/products/rstudio/#Desktop) Desktop integrated development environment (IDE) for R.
 
+# Bugs or Questions
+
+If you find any problems in the syllabus or anthing else on this site either open an [issue](https://github.com/UW-POLS503/2017/issues) or fix the source and open a [pull request](https://github.com/UW-POLS503/2017/pulls).
+
 # Rough Schedule of Topics
 
 - Week 1
